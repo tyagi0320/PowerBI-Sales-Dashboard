@@ -1,6 +1,6 @@
 # XYZ Sales Dashboard - Power BI
 
-This Power BI Dashboard provides a comprehensive overview of XYZ Company's sales data. It is built using Excel sheets from [this shared Google Drive folder](https://drive.google.com/drive/folders/1mY0agiWajOKDelUjIAADWMbB0q6kSz2p) and designed to support data-driven business decisions through clear visual analytics.
+This Power BI Dashboard provides a comprehensive overview of XYZ Company's sales data. It is built using Excel sheets from [https://drive.google.com/drive/folders/1mY0agiWajOKDelUjIAADWMbB0q6kSz2p] and designed to support data-driven business decisions through clear visual analytics.
 
 ---
 
@@ -48,7 +48,7 @@ These files are cleaned and linked via relationships in Power BI to form a cohes
 ---
 ## **Screenshots**  
 
-!(screenshots/1.pic1.png)  
+![screenshots/1.pic1.png]  
 
 ## How to Use
 
