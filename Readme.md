@@ -48,7 +48,7 @@ These files are cleaned and linked via relationships in Power BI to form a cohes
 ---
 ## **Screenshots**  
 
-!(screenshot/pic1.png)
+![](screenshot/pic1.png)
 
 ## How to Use
 
