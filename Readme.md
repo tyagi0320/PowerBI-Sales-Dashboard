@@ -1,10 +1,10 @@
-# 📊 XYZ Sales Dashboard - Power BI
+# XYZ Sales Dashboard - Power BI
 
 This Power BI Dashboard provides a comprehensive overview of XYZ Company's sales data. It is built using Excel sheets from [this shared Google Drive folder](https://drive.google.com/drive/folders/1mY0agiWajOKDelUjIAADWMbB0q6kSz2p) and designed to support data-driven business decisions through clear visual analytics.
 
 ---
 
-## 📁 Data Sources
+## Data Sources
 
 - **Orders.csv**  
   Contains order-level information such as:
@@ -26,28 +26,31 @@ These files are cleaned and linked via relationships in Power BI to form a cohes
 
 ---
 
-## 📌 Key Dashboard Features
+## Key Dashboard Features
 
-- 📅 **Time-Based Trends**
+- **Time-Based Trends**
   - Monthly and yearly sales trends
   - Period-over-period comparisons
 
-- 🧾 **Order & Revenue Analytics**
+- **Order & Revenue Analytics**
   - Total sales and order volume
   - Average order value
   - Product-level breakdowns
 
-- 🌍 **Regional Performance**
+- **Regional Performance**
   - Sales by region and customer segments
   - Channel performance (Online vs. Offline)
 
-- 📦 **Product Analysis**
+- **Product Analysis**
   - Best-selling products
   - Low-performing SKUs
 
 ---
+## **Screenshots**  
 
-## 🛠️ How to Use
+![Welcome Window](screenshots/1.pic1.png)  
+
+## How to Use
 
 1. Clone or download this repository.
 2. Open the `XYZ Sales.pbix` file using [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
@@ -56,7 +59,7 @@ These files are cleaned and linked via relationships in Power BI to form a cohes
 
 ---
 
-## 🔄 Data Refresh
+## Data Refresh
 
 To update the dashboard:
 - Replace `Orders.csv` and `Details.csv` with updated versions in the same directory.
@@ -64,7 +67,7 @@ To update the dashboard:
 
 ---
 
-## 📧 Contact
+## Contact
 
 For questions or suggestions, please contact:  
 📨 tharshit03@gmail.com
